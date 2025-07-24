@@ -63,7 +63,7 @@ Agile, Scrum, Kanban, Lean <br/>
 📊 Designed and implemented unit tests with Jest and Jasmine, ensuring code quality  <br/>
 
 📫 Let's Connect! <br/>
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitor-yan-abreu/) <br/>
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-yan-abreu/) <br/>
 📧 [Email](mailto:vitoryanfma@gmail.com) <br/>
 
 💡 Open to collaborations, mentoring, and exciting frontend projects! Feel free to reach out. 🚀 <br/>
